@@ -55,4 +55,4 @@ Create a dictionary of information about each city and include the country that 
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-05)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-07)
+[&#10094; Prev](../../../pcc-chapter-05)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-07)
