@@ -9,7 +9,7 @@ dictionary. Additionally, you’ll learn to nest dictionaries inside
 lists, lists inside dictionaries, and even dictionaries inside other
 dictionaries.
 
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch6exe1"></span>**6-1. Person:** Use a dictionary to store
 information about a person you know. Store their first name, last name,
@@ -38,7 +38,7 @@ word on one line and then print its meaning indented on a second line.
 Use the newline character (`\n`) to insert a blank line between each
 word-meaning pair in your output.
 
-## TRY IT YOURSELF #2
+## TRY IT YOURSELF Ⓑ
 
 <span id="ch6exe4"></span>**6-4. Glossary 2:** Now that you know how to
 loop through a dictionary, clean up the code from [Exercise
@@ -73,7 +73,7 @@ already taken the poll, print a message thanking them for responding. If
 they have not yet taken the poll, print a message inviting them to take
 the poll.
 
-## TRY IT YOURSELF #3
+## TRY IT YOURSELF Ⓒ
 
 <span id="ch6exe7"></span>**6-7. People:** Start with the program you
 wrote for [Exercise 6-1](../../../pcc_2e/tree/master/chapter_06/README.md#ch6exe1) ([page
