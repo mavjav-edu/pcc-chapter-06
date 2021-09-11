@@ -97,7 +97,7 @@ few of their favorite places. Loop through the dictionary, and print
 each person&rsquo;s name and their favorite places.
 
 <span id="ch6exe10"></span>**6-10. Favorite Numbers:** Modify your
-program from [Exercise 6-2](../../../pcc_2e/tree/master/chapter_06/README.md#ch6exe2) ([page
+program from [Exercise 6-2](#ch6exe2) ([page
 102](#page_102)) so each person can have more than one favorite
 number. Then print each person&rsquo;s name along with their favorite numbers.
 
