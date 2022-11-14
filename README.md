@@ -9,6 +9,12 @@ dictionary. Additionally, you’ll learn to nest dictionaries inside
 lists, lists inside dictionaries, and even dictionaries inside other
 dictionaries.
 
+| Key-Value Pair | Keys | Values |
+|:---:|:---:|:---:|
+| <img src='dictionary_pair.svg' width='100%'/>  | <img src='dictionary_keys.svg' width='100%'/>  | <img src='dictionary_values.svg' width='100%'/>  |
+
+[Click here to see a demonstration of the above dictionary object in Python](dictionary_term.svg)
+
 ## TRY IT YOURSELF Ⓐ
 
 <span id="ch6exe1"></span>**6-1. Person:** Use a dictionary to store
@@ -24,9 +30,14 @@ store each as a value in your dictionary. Print each person&rsquo;s name and
 their favorite number. For even more fun, poll a few friends and get
 some actual data for your program.
 
+<p align="center"><img src="dictionary.jpg" width="75%"/><br/><a
+href="https://dribbble.com/shots/17140439-Dictionary">Dictionary</a> by
+<a href="https://dribbble.com/-Moy">Moy Lee</a>
+</p>
+
 <span id="ch6exe3"></span>**6-3. Glossary:** A Python dictionary can be
 used to model an actual dictionary. However, to avoid confusion, let&rsquo;s
-call it a glossary.
+call it a *glossary*.
 
 - Think of five programming words you&rsquo;ve learned about in the previous
 chapters. Use these words as the keys in your glossary, and store their
@@ -37,7 +48,6 @@ print the word followed by a colon and then its meaning, or print the
 word on one line and then print its meaning indented on a second line.
 Use the newline character (`\n`) to insert a blank line between each
 word-meaning pair in your output.
-
 ## TRY IT YOURSELF Ⓑ
 
 <span id="ch6exe4"></span>**6-4. Glossary 2:** Now that you know how to
@@ -62,7 +72,7 @@ runs through Egypt*.
 dictionary.
 
 <span id="ch6exe6"></span>**6-6. Polling:** Use the code in
-*favorite_languages.py* (#page_104)).
+[*favorite_languages.py*](favorite_languages.py).
 
 - Make a list of people who should take the favorite languages poll.
 Include some names that are already in the dictionary and some that are
